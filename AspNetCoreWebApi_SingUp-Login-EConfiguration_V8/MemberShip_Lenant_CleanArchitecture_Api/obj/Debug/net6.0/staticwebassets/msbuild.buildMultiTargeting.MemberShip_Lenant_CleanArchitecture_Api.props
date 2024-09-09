@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MemberShip_Lenant_CleanArchitecture_Api.props" />
+</Project>
